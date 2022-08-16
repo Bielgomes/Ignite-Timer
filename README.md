@@ -1,12 +1,17 @@
 # Ignite Timer
-<img src="https://i.imgur.com/jUnvczF.gif">
+<img src="https://i.imgur.com/WafVdXB.gif">
 Ignite Timer é um dos projetos realizados ao decorrer da Trilha ReactJS da RocketSeat.
 
 ## Funcionalidades
-- Adicionar e Remover Comentários em posts;
-- Aplaudir comentários.
+- Criar um Ciclo;
+- Interromper um Ciclo;
+- Listagem de ciclos e seus status.
 
 ## Tecnologias Utilizadas
 - ReactJS
-- Posport-react
+- Phosport-react
 - Date-fns
+- React-router-dom
+- immer
+- React-hook-form
+- Zod
