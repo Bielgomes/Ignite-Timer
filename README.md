@@ -15,3 +15,5 @@ Ignite Timer é um dos projetos realizados ao decorrer da Trilha ReactJS da Rock
 - immer
 - React-hook-form
 - Zod
+- ContextAPI
+- useReducer
