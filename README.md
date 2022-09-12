@@ -9,7 +9,7 @@ Ignite Timer é um dos projetos realizados ao decorrer da Trilha ReactJS da Rock
 
 ## Tecnologias Utilizadas
 - ReactJS
-- Phosport-react
+- Phosphor-react
 - Date-fns
 - React-router-dom
 - immer
